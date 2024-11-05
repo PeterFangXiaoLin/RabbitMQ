@@ -1,0 +1,22 @@
+
+
+java:S1192%"MDefine a constant instead of duplicating this literal "] Received '" 4 times.(Ö½±·8€ÖÉ°¯2J$b4daa106-0184-4503-b305-6088382c0a72
+
+java:S1192$"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(åıÙÆûÿÿÿÿ8ÖÉ°¯2J$87f9df38-fbb9-43bb-8c8f-de0e6bc80a3a
+‹
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(“…§Ú8ÿ³Ä°¯2J$49d76847-9e83-4de3-8069-b87cad37a3d7
+
+java:S2095"EUse try-with-resources or close this "Channel" in a "finally" clause.(‡î‰´ûÿÿÿÿ8ÿ³Ä°¯2J$097d5b35-292c-4e28-8bb7-a665ed0aec8c
+m	java:S106!"+Replace this use of System.out by a logger.(æĞ8×‹Å°¯2J$87529dda-0f79-4f6a-a056-e644834e654d
+
+java:S4719$"9Replace charset name argument with StandardCharsets.UTF_8(åıÙÆûÿÿÿÿ8ïÙÇ°¯2J$88f00aaa-d182-4e7d-92b6-f0238c94768d
+m	java:S106%"+Replace this use of System.out by a logger.(Ö½±·8ñÙÇ°¯2J$3f7754a4-d379-4da4-a6a7-7568b4b23447
+
+java:S4719*"9Replace charset name argument with StandardCharsets.UTF_8(åıÙÆûÿÿÿÿ8Í°É°¯2J$9ecdc05d-3af9-41af-82ef-03651a2ebe08
+r	java:S106+"+Replace this use of System.out by a logger.(¹Ò˜èÿÿÿÿÿ8Î°É°¯2J$64b1925a-cddb-406b-a163-ff99659f2f65
+
+java:S4719/"9Replace charset name argument with StandardCharsets.UTF_8(åıÙÆûÿÿÿÿ8¥ÖÉ°¯2J$b3a8ea4f-7e26-4ddc-b839-f55cb7f48ef9
+r	java:S1060"+Replace this use of System.out by a logger.(À•ïòùÿÿÿÿ8¥ÖÉ°¯2J$7d65ea02-5160-4926-b2a4-81c398bce176
+
+java:S47194"9Replace charset name argument with StandardCharsets.UTF_8(åıÙÆûÿÿÿÿ8¥›Ê°¯2J$cd716884-b2dd-4c78-8462-5afb8bca0a6d
+m	java:S1065"+Replace this use of System.out by a logger.(üÁ¤8¥›Ê°¯2J$30a54132-2294-4d17-ac6c-2bd10b9f2f4c

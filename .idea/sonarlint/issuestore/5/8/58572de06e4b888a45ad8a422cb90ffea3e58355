@@ -1,0 +1,12 @@
+
+‹
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ëæ–8¸ÈÖş®2J$c167da76-aac9-4776-8c9e-dc9bb61ebb92
+
+java:S2095"EUse try-with-resources or close this "Channel" in a "finally" clause.(òŠ°íşÿÿÿÿ8¸ÈÖş®2J$ecb7970e-4166-471f-9730-2ab11a054e85
+m	java:S106"+Replace this use of System.out by a logger.(¦ÎÑ¶8”¥Õş®2J$2fdc5ff2-b92f-455e-848c-4cf113f329e8
+
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(åıÙÆûÿÿÿÿ8—¥Õş®2J$6e99a664-bda4-4705-8571-8ace11bee5e6
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8™¥Õş®2J$a70805ed-b915-4535-be33-00303fe96db8
+m	java:S106"+Replace this use of System.out by a logger.(×™Ûó8™¥Õş®2J$d1111c02-983f-4ae9-ad45-7f440b087869
+r	java:S106 "+Replace this use of System.out by a logger.(Ê¿ù£úÿÿÿÿ8š¥Õş®2J$a7ec4dcc-08d3-4dc5-8c37-1eff64a27d9f

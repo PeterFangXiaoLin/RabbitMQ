@@ -1,0 +1,14 @@
+
+ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¼ºÕ8Ñ¸˜Ü¯2J$50c9ccd4-1d57-4007-a86c-3c3b9ae3443b
+
+java:S2095!"EUse try-with-resources or close this "Channel" in a "finally" clause.(‡î‰´ûÿÿÿÿ8â¹˜Ü¯2J$e73e05dc-32e0-4cf2-8e23-ef454b5dbb9f
+
+java:S2095T"EUse try-with-resources or close this "Channel" in a "finally" clause.(‡î‰´ûÿÿÿÿ8á¹˜Ü¯2J$0cdb631f-6c02-4095-bae1-b876e3ea391e
+
+java:S20954"EUse try-with-resources or close this "Channel" in a "finally" clause.(‡î‰´ûÿÿÿÿ8¤™Ü¯2J$692daa1f-10e8-4ced-bb2b-015169389b7a
+l	java:S106."+Replace this use of System.out by a logger.(ò€58†º˜Ü¯2J$16ad275b-a36a-4d27-bdd6-8e72c7bc011c
+r	java:S106N"+Replace this use of System.out by a logger.(ü‡ø›úÿÿÿÿ8º˜Ü¯2J$8eca47ac-d558-4f45-958c-9701f39bf0bd
+m	java:S106j"+Replace this use of System.err by a logger.(¥Ğîñ8Ÿº˜Ü¯2J$de153230-f321-4af0-9666-9b3865164624
+‘
+java:S1612y"IReplace this lambda with method reference 'outstandingConfirms::isEmpty'.(’Œ‘Èıÿÿÿÿ8¨º˜Ü¯2J$f7dc3793-9742-4883-8095-131a3d209ba8
+m	java:S106~"+Replace this use of System.out by a logger.(ğËË8­º˜Ü¯2J$a1db6c5a-3d44-4cff-84c1-e67ab683ca10
